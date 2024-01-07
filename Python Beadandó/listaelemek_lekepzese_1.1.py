@@ -1,0 +1,1 @@
+print(input('Adjon meg egy szót: ').upper())
